@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name = "generatebreed">Generate Breed!</string>
+    <string name = "nothingtoshowyet">Nothing To Show Yet!</string>
+    <string-array name="petbreeds">
+        <item>cats</item>
+        <item>dogs</item>
+        <item>rabbit</item>
+        <item>hamster</item>
+    </string-array>
+</resources>
