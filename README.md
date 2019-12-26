@@ -18,3 +18,12 @@ A simple text app that allows users to type in a text of message and gives users
   <img src = "https://github.com/prg007/Android_Development_Projects/blob/master/Android_Project_Screenshots/Screenshot_2019-12-26_043345.jpg " width = 40%> 
   <img src = "https://github.com/prg007/Android_Development_Projects/blob/master/Android_Project_Screenshots/Screenshot_2019-12-26_043427.jpg"  width = 40%> 
 </p>
+
+## PIzza Selector
+
+Users can select choose their desired pizza from a myriad number of options, carefully view their selected pizzas and invite their friends while ordering.
+
+<p float = "left">
+  <img src = "https://github.com/prg007/Android_Development_Projects/blob/master/Android_Project_Screenshots/Screenshot_2019-12-26_043601.jpg " width = 40%> 
+  <img src = "https://github.com/prg007/Android_Development_Projects/blob/master/Android_Project_Screenshots/Screenshot_2019-12-26_043614.jpg"  width = 40%> 
+</p>
