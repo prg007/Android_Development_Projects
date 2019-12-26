@@ -9,3 +9,12 @@ routines to get started have the flexibility to stop, start and reset the stopwa
   <img src = "https://github.com/prg007/Android_Development_Projects/blob/master/Android_Project_Screenshots/Screenshot_2019-12-26_043255.jpg " width = 40%> 
   <img src = "https://github.com/prg007/Android_Development_Projects/blob/master/Android_Project_Screenshots/Screenshot_2019-12-26_043335.jpg"  width = 40%> 
 </p>
+
+## My Messenger
+
+A simple text app that allows users to type in a text of message and gives users the freedom to choose any message sending application on their phone. Users can fire off the same message on different applications on their phone simultaneously.
+
+<p float = "left">
+  <img src = "https://github.com/prg007/Android_Development_Projects/blob/master/Android_Project_Screenshots/Screenshot_2019-12-26_043345.jpg " width = 40%> 
+  <img src = "https://github.com/prg007/Android_Development_Projects/blob/master/Android_Project_Screenshots/Screenshot_2019-12-26_043427.jpg"  width = 40%> 
+</p>
